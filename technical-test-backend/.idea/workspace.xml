@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea5db0d6-f88c-4e85-a3df-d5ef002b1d1d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UAerqaGN0esb1SpdtvIOu53dqA" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutub\IdeaProjects\technical-test-backend\src\test\java\com\virgingames" />
+      <recent name="C:\Users\rutub\IdeaProjects\technical-test-backend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BingoLoginPage.defaultGameFrequency">
+    <configuration name="BingoLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technical-test-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.virgingames.bingotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.virgingames.bingotest" />
+      <option name="MAIN_CLASS_NAME" value="com.virgingames.bingotest.BingoLoginPage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BingoLoginPage.defaultGameFrequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technical-test-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.virgingames.bingotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.virgingames.bingotest" />
+      <option name="MAIN_CLASS_NAME" value="com.virgingames.bingotest.BingoLoginPage" />
+      <option name="METHOD_NAME" value="defaultGameFrequency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BingoLoginPage.getImageEntitiesOfFirstProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technical-test-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.virgingames.bingotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.virgingames.bingotest" />
+      <option name="MAIN_CLASS_NAME" value="com.virgingames.bingotest.BingoLoginPage" />
+      <option name="METHOD_NAME" value="getImageEntitiesOfFirstProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BingoLoginPage.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technical-test-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.virgingames.bingotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.virgingames.bingotest" />
+      <option name="MAIN_CLASS_NAME" value="com.virgingames.bingotest.BingoLoginPage" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BingoLoginPage.defaultGameFrequency" />
+        <item itemvalue="JUnit.BingoLoginPage.getImageEntitiesOfFirstProduct" />
+        <item itemvalue="JUnit.BingoLoginPage" />
+        <item itemvalue="JUnit.BingoLoginPage.test001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5db0d6-f88c-4e85-a3df-d5ef002b1d1d" name="Default Changelist" comment="" />
+      <created>1574804028652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574804028652</updated>
+    </task>
+    <servers />
+  </component>
+</project>
